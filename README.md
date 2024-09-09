@@ -1,5 +1,4 @@
-# Vaga_Estágio
- 
+
 4) Descubra a lógica e complete o próximo elemento:
 a) 1, 3, 5, 7, 9, 11,13
 b) 2, 4, 8, 16, 32, 64,128
